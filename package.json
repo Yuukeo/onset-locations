@@ -1,0 +1,20 @@
+{
+    "author": "FutureShock",
+    "version": "1.0",
+    "server_scripts": [
+        "misc/s_database.lua",
+        "atm/server.lua",
+        "vehicle_dealer/server.lua",
+        "garage/server.lua",
+        "housing/server.lua",
+        "shops/server.lua"
+    ],
+    "client_scripts": [
+        "atm/client.lua",
+        "vehicle_dealer/client.lua",
+        "garage/client.lua",
+        "misc/json.lua",
+        "housing/client.lua",
+        "shops/client.lua"
+    ]
+}
